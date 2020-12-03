@@ -1,0 +1,66 @@
+.tabela{
+
+    border: 2px;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: justify;
+    
+
+}
+
+.colunaPaises{
+    background-color: aquamarine;
+    vertical-align: top;
+    display: inline-block;
+    width: auto;
+
+}
+
+
+.colunaCapital{
+    background-color: rgb(161, 135, 222);
+    display: inline-block;
+    margin: 0px;
+    vertical-align: top;
+    width: 200px;   
+}
+
+.colunaRegiao{
+    background-color: gray;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+    width: 200px;
+
+    
+}
+
+.colunaSubRegiao{
+    background-color: skyblue;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+    width: 200px;
+
+    
+}
+
+.colunaArea{
+    background-color: tan;
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+   
+
+    
+}
+
+.colunaFronteira{
+    background-color: thistle;
+    display: inline-block;
+    vertical-align: top;
+    width: auto;
+ 
+    
+}
